@@ -50,18 +50,3 @@ O script imprime no console:
 * As linhas que contêm valores ausentes.
 * As colunas que possuem valores ausentes.
 
-## Exemplo de Saída
-
-Contagem de valores ausentes por coluna:
-coluna1    2
-coluna2    0
-coluna3    1
-coluna4    3
-dtype: int64
-
-Linhas com valores ausentes:
-coluna1  coluna2  coluna3  coluna4
-0      NaN        1      2.0      3.0
-2      5.0        3      NaN      7.0
-3      6.0        4      8.0      NaN
-4      NaN        5      9.0      NaN
